@@ -1,0 +1,12 @@
+{
+    "userName": "id34545rest4332p",
+    "age": 29,
+    "gender": "MALE",
+    "city": "Sofia",
+    "numberOfFriends": 50,
+    "numberOfPhotos": false,
+    "numberOfVideos": false,
+    "accountType": "RESTRICTED",
+    "accountCredit": "",
+    "isAccountRestricted": true
+  }
